@@ -1,5 +1,3 @@
-```markdown
-<!-- Custom CSS Animations -->
 <style>
   @keyframes float {
     0%, 100% { transform: translateY(0px); }
@@ -118,7 +116,6 @@
 
 <div class="fade-in" style="animation-delay: 0.5s;">
 
-```javascript
 const shameem = {
   code: ["JavaScript", "TypeScript", "Python", "Java"],
   tech: {
@@ -131,8 +128,6 @@ const shameem = {
   currentFocus: "Building scalable platforms with great UX",
   philosophy: "Ship fast, iterate faster"
 };
-```
-
 </div>
 
 ---
